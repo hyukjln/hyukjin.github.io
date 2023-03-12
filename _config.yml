@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "과학컴퓨팅"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "과학컴퓨팅 **Scientific Computing ** 
+  bio              : "과학컴퓨팅 **Scientific Computing ** "
   location         : "PKNU"
   email            :
   links:
